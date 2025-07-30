@@ -13,7 +13,6 @@ This tool allows you to upload a document, start a timed work session, manage yo
 - [Setup and Installation](#️-setup-and-installation)
 - [How to Run the Application](#️-how-to-run-the-application)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -98,8 +97,3 @@ Contributions are welcome! If you have ideas for new features or improvements, p
 
 Please make sure to update tests as appropriate.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
